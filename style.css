@@ -1,16 +1,56 @@
 /*style.css*/
 
-.heading,.intro {
-    color:rgb(163, 77, 91);
-    background-color:plum;
-    font-style:oblique;
-    font-family:Arial, Helvetica, sans-serif;
-    text-align:center;
+body {
+    background-color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#link {
-    background-color:blueviolet;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 32px;
+.heading {
+    color:rgb(163, 77, 91);
+    background-color:plum;
+    padding:50px;
+    border: 10px solid peachpuff;
+    margin: 20px auto;
+    font-size: 100px;
     text-align:center;
+    width: 400px;
+}
+
+.intro {
+    color: rgb(163, 77, 91);
+    background-color: plum;
+    padding: 50px;
+    border: 10px solid burlywood;
+    margin: 10px auto;
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+}
+.link1{
+    color:black;
+    background-color:plum;
+    padding: 10px;
+    margin: 5px auto;
+    width: 200px;
+    text-align: center;
+    margin: 10px auto;
+}
+.link2{
+    color:black;
+    background-color:plum;
+    padding: 10px;
+    margin: 5px auto;
+    width: 200px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.link3{
+    color:black;
+    background-color:plum;
+    padding: 10px;
+    margin: 5px auto;
+    width: 200px;
+    text-align: center;
+    margin: 10px auto;
 }
